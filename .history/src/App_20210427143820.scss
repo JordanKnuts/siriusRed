@@ -1,0 +1,14 @@
+@import './Styles/_layout.scss';
+@import './Styles/_navBar.scss';
+
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+body{
+    color: #a4acc4;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 1.2rem;
+}
